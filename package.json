@@ -20,7 +20,7 @@
   "homepage": "https://github.com/bio8oid/17.9#readme",
   "dependencies": {
     "colors": "^1.3.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "formidable": "^1.2.1"
   }
 }
